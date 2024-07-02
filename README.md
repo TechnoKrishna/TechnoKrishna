@@ -3,15 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
-- 🔭 I’m currently working on **something cool 😊**
+- 🌱 I’m interested in **Web Development, Backend Development, Mobile App Development, AI/ML**
 
-- 🌱 I’m currently learning **React.js, Flutter**
-
-- 💬 Ask me about **Javascript/Python/Java/React/Express/Flask**
+- 🔭 I’m currently working on **React, Core Js, Express, Node.js, MongoDB**
 
 - 📫 How to reach me **krishna.sonawane03@gmail.com**
 
 - ⚡ Fun fact **I'm proud to say that I can succesfully center an element with css.**
+
+- 🩻 Website :- https://technokrishna.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
